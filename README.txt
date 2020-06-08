@@ -1,7 +1,7 @@
 •Title
 Investigate a Dataset (Patient Appointment)
 •Description
-Investigate a Datasets (Patient Appointment) and apply some statistic on it and graph
+Investigate a Datasets (Patient Appointment) and apply some statistic on it and graph and find relation between no coming to appointment and other factor 
 •Prerequisites
 Nothing since I am using Udacity 
 •Description 
